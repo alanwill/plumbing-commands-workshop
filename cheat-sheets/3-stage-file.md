@@ -13,3 +13,5 @@ Let's look at it:
 ```
 git ls-files --stage
 ```
+
+### Jump to [Next Exercise](4-commit-file.md)
