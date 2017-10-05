@@ -46,3 +46,5 @@ Changes to be committed:
 
 	new file:   hello.md
 ```
+
+### Jump to [Next Exercise](5-make-branch.md)
