@@ -19,3 +19,9 @@ git count-objects -H
 OR
 git count-objects -v -H
 ```
+
+Let's verify what is in the pack:
+
+```
+git verify-pack -v .git/objects/pack/pack-<pack-file>.idx
+```
