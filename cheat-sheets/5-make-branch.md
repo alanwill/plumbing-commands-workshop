@@ -22,3 +22,5 @@ git write-tree
 echo "a second commit" | git commit-tree <tree-SHA> -p <parent-commit-SHA>
 git update-ref refs/heads/master <commit-SHA>
 ```
+
+### Jump to [Next Exercise](6-make-pack.md)
