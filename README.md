@@ -23,7 +23,7 @@ This class will be 100% command line! You will need:
 
 The cheat sheets for each activity are linked here:
 
-- [Exercise 1: Let's Create a Repository](#)
+- [Exercise 1: Let's Create a Repository](cheat-sheets/1-create-repo.md)
 - [Exercise 2: Creating a File](#)
 - [Exercise 3: Staging the File](#)
 - [Exercise 4: Committing the File](#)
