@@ -29,6 +29,7 @@ The cheat sheets for each activity are linked here:
 - [Exercise 4: Committing the File](cheat-sheets/4-commit-file.md)
 - [Exercise 5: Attach the Commit to a Branch](cheat-sheets/5-make-branch.md)
 - [Exercise 6: Create a Pack File](cheat-sheets/6-make-pack.md)
+- [Exercise 7: More Branches](cheat-sheets/7-second-branch.md)
 
 # Resources
 
