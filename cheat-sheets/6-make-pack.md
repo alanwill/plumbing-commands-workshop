@@ -25,3 +25,5 @@ Let's verify what is in the pack:
 ```
 git verify-pack -v .git/objects/pack/pack-<pack-file>.idx
 ```
+
+### Jump to [Next Exercise](7-second-branch.md)
